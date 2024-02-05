@@ -1,5 +1,7 @@
 # Narzedzie-do-napisow Adobe Premiere Pro
-Program po odpaleniu wygląda tak: ![image](https://github.com/NertiPL/Narzedzie-do-napisow/assets/109041164/7c2ff06a-3589-41d6-936b-8abc8d75e14b)
+Program po odpaleniu wygląda tak: 
+![image](https://github.com/NertiPL/Narzedzie-do-napisow/assets/109041164/7c2ff06a-3589-41d6-936b-8abc8d75e14b)
+
 Polecam zanzaczyć opcje "Okno zawsze na górze"
 
 Jak działa?
